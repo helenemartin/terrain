@@ -76,6 +76,8 @@ z-index: -1;
 }
 .videoin {
   text-align: center;
+  width: 100%    !important;
+  height: auto   !important;
 }
 /*
  * Hero Styles
