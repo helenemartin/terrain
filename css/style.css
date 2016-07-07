@@ -114,6 +114,7 @@ aside .left{
 
 aside .right{
   float: right;
+  opacity: 0.9;
 }
 
 aside {
