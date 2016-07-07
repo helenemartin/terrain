@@ -1,10 +1,8 @@
 body {
-  background: url('../images/space-background.png');
+  
   font-family: 'Open Sans', arial, sans-serif;
   /* Full Page Background Receipe */
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  
 }
 
 * {
@@ -39,7 +37,7 @@ ul li {
 
 
 h1, h2 {
-  font-family: 'arial', cursive;
+  font-family: 'Lato', arial, sans-serif;
   color: gray;
   text-align: center;
   margin-bottom: 2rem;
@@ -99,9 +97,11 @@ section.intro, section.contact {
 
 section.intro {
   background: #fff;
+
 }
 section.contact {
   background: #e6e9ea;
+  opacity: 0.5;
 }
 
 /*
@@ -114,7 +114,7 @@ aside .left{
 
 aside .right{
   float: right;
-  opacity: 0.9;
+
 }
 
 aside {
